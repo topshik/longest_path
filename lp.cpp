@@ -45,7 +45,7 @@ public:
     }
 
     Vertex RandVertex() const {
-        return rand()%AllVertices().size();
+        return rand() % AllVertices().size();
     }
 
     const AdjencyList& AsAdjencyList() const {
