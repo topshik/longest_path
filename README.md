@@ -1,4 +1,4 @@
-# longest_path
+# The longest path problem
 Here are the implementations of algorithms solving the Longest Path problem.
 Gradient descent, Metropolis and Simulated Annealing are implemented.
 ## Algorithms analysis
